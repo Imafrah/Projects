@@ -59,6 +59,11 @@ These projects focus on:
 
 ---
 
+![Static Badge](https://img.shields.io/badge/Device-Desktop%20Only-red?style=for-the-badge)
+
+This project is **optimized for desktop/laptop screens**.  
+Mobile and tablet support is not included.
+
 ## 📜 How to Use
 
 1. Clone this repository:

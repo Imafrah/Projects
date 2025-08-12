@@ -1,8 +1,66 @@
 # Practice-Projects
- Welcome to my Practice Projects repository!  This is my personal collection of coding exercises, mini-projects, and experiments across different programming languages and tools. The main goal is to practice, learn, and improve my problem solving and development skills.
 
-## 🎯 Purpose of This Repository
-- Practice **different programming languages**
-- Explore **new frameworks & libraries**
-- Create **small reusable code snippets**
-- Improve **problem-solving skills**
+Welcome to my **Practice Projects** repository!  
+This repo contains small but useful projects built to strengthen my coding, problem-solving, and UI/UX skills.
+
+Currently, the repository includes:
+
+- **Currency Converter** 💱
+- **To-Do List** 📋
+
+---
+
+## 📂 Projects
+
+### 1. Currency Converter 💱
+A simple web app that allows users to convert between different currencies using real-time exchange rates.
+
+**Features:**
+- Select "From" and "To" currencies.
+- Input any amount to get instant conversion.
+- Fetches live exchange rates.
+- Clean and responsive UI.
+
+**Tech Stack:**
+- HTML
+- CSS
+- JavaScript
+- API for exchange rates
+
+**Live Demo:** [Currency Converter](https://your-live-link-here)
+
+---
+
+### 2. To-Do List 📋
+A sleek and interactive to-do list app that helps users organize their daily tasks.
+
+**Features:**
+- Add new tasks.
+- Mark tasks as completed.
+- Remove tasks easily.
+- Gradient background for a modern look.
+- Fully responsive design.
+
+**Tech Stack:**
+- HTML
+- CSS
+- JavaScript
+
+**Live Demo:** [To-Do List](https://your-live-link-here)
+
+---
+
+## 🚀 Purpose of This Repository
+The main goal is to **practice, learn, and build** using different programming concepts and tools.  
+These projects focus on:
+- Improving JavaScript skills.
+- Understanding API integration.
+- Enhancing frontend design.
+
+---
+
+## 📜 How to Use
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/yourusername/yourrepo.git

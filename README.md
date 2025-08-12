@@ -27,7 +27,7 @@ A simple web app that allows users to convert between different currencies using
 - JavaScript
 - API for exchange rates
 
-**Live Demo:** [Currency Converter](https://your-live-link-here)
+**Live Demo:** [Currency Converter](https://imafrah.github.io/Practice-Projects/Courrency/)
 
 ---
 
@@ -46,7 +46,7 @@ A sleek and interactive to-do list app that helps users organize their daily tas
 - CSS
 - JavaScript
 
-**Live Demo:** [To-Do List](https://your-live-link-here)
+**Live Demo:** [To-Do List](https://imafrah.github.io/Practice-Projects/To-do-List/)
 
 ---
 
@@ -63,4 +63,4 @@ These projects focus on:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/yourrepo.git
+   git clone https://imafrah.github.io/Practice-Projects/

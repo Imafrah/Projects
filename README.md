@@ -54,16 +54,14 @@ A sleek and interactive to-do list app that helps users organize their daily tas
 A frontend-only clone of Amazon’s homepage built with HTML and CSS.  
 It replicates the layout and design of Amazon but does not include backend functionality.
 
-## Features
-
+**Features:**
 - Amazon-style navigation bar and search bar.
 - Product listing sections with images and titles.
 - Footer section with quick links.
 - Static design (no dynamic functionality).
 - Optimized for laptop and desktop only.
 
-## Tech Stack
-
+**Tech Stack:**
 - HTML
 - CSS
 

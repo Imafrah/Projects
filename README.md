@@ -30,6 +30,28 @@ A simple web app that allows users to convert between different currencies using
 **Live Demo:** [Currency Converter](https://imafrah.github.io/Practice-Projects/Courrency/)
 
 ---
+# Amazon Clone 📦
+
+A frontend-only clone of Amazon’s homepage built with HTML and CSS.  
+It replicates the layout and design of Amazon but does not include backend functionality.
+
+## Features
+
+- Amazon-style navigation bar and search bar.
+- Product listing sections with images and titles.
+- Footer section with quick links.
+- Static design (no dynamic functionality).
+- Optimized for laptop and desktop only.
+
+## Tech Stack
+
+- HTML
+- CSS
+
+## Live Demo
+
+[Amazon Clone](#)
+
 
 ### 2. To-Do List 📋
 A sleek and interactive to-do list app that helps users organize their daily tasks.
@@ -49,29 +71,6 @@ A sleek and interactive to-do list app that helps users organize their daily tas
 **Live Demo:** [To-Do List](https://imafrah.github.io/Practice-Projects/To-do-List/)
 
 ---
-3. Amazon Clone 📦
-A frontend-only clone of Amazon’s homepage built with HTML and CSS.
-It replicates the layout and design of Amazon but does not include backend functionality.
-
-Features:
-
-Amazon-style navigation bar and search bar.
-
-Product listing sections with images and titles.
-
-Footer section with quick links.
-
-Static design (no dynamic functionality).
-
-Optimized for laptop and desktop only.
-
-Tech Stack:
-
-HTML
-
-CSS
-
-Live Demo: Amazon Clone
 
 ## 🚀 Purpose of This Repository
 The main goal is to **practice, learn, and build** using different programming concepts and tools.  

@@ -7,6 +7,7 @@ Currently, the repository includes:
 
 - **Currency Converter** 💱
 - **To-Do List** 📋
+- **Amazon Clone** 📦
 
 ---
 

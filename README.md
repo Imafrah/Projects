@@ -72,6 +72,58 @@ It replicates the layout and design of Amazon but does not include backend funct
 
 **Live Demo:** [Amazon Clone](https://imafrah.github.io/Practice-Projects/Amazon_clone/)
 
+### 4.Gemini AI Chatbot 🤖
+
+A simple **AI-powered chatbot** web application built using **HTML**, **CSS**, **JavaScript**, and **Node.js** with **Google Gemini API** integration.  
+It allows users to chat with an AI assistant directly from the browser.
+
+---
+
+## ✨ Features
+
+- Interactive chat interface.
+- Sends user messages to a backend API connected to **Google Gemini**.
+- Real-time AI-generated responses.
+- Option to clear the chat history.
+- Modern, responsive UI design.
+- **Optimized for laptop and desktop only**.
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend:
+- HTML5
+- CSS3
+- JavaScript
+
+### Backend:
+- Node.js
+- Google Gemini API
+- Body-Parser & CORS for handling requests
+---
+
+## 🚀 How to Run Locally
+
+1. **Clone the repository**
+   ```bash
+   git clone https://imafrah.github.io/Practice-Projects/
+   cd Gemini-AI-Chatbot
+2.Install dependencies
+npm install
+
+3.Set up environment variables
+Create a .env file in the root directory and add:
+
+GEMINI_API_KEY=your_api_key_here
+
+4.Run the server
+node server.js
+
+5.Open in browser
+Visit http://localhost:3000
+
+
 ## 🚀 Purpose of This Repository
 The main goal is to **practice, learn, and build** using different programming concepts and tools.  
 These projects focus on:

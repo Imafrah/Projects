@@ -104,7 +104,8 @@ It allows users to chat with an AI assistant directly from the browser.
 ---
 
 ## 📷 Preview
-<img width="1365" height="628" alt="image" src="https://github.com/user-attachments/assets/fbac35cc-ec16-459a-8fa2-684df3592c84" />
+<img width="1363" height="634" alt="image" src="https://github.com/user-attachments/assets/ba9a8ab3-efde-4729-8c4a-cfdd87f348b5" />
+
 
 
 ## 🚀 How to Run Locally

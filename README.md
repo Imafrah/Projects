@@ -66,7 +66,7 @@ It replicates the layout and design of Amazon but does not include backend funct
 - HTML
 - CSS
 
-**Live Demo:** [Amazon Clone](https://imafrah.github.io/Practice-Projects/To-do-List/)
+**Live Demo:** [Amazon Clone](https://imafrah.github.io/Practice-Projects/Amazon_clone/)
 
 ## 🚀 Purpose of This Repository
 The main goal is to **practice, learn, and build** using different programming concepts and tools.  

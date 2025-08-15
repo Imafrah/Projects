@@ -65,6 +65,9 @@ It replicates the layout and design of Amazon but does not include backend funct
 **Tech Stack:**
 - HTML
 - CSS
+- 
+## 📷 Preview
+<img width="1364" height="630" alt="image" src="https://github.com/user-attachments/assets/fa3b8a4a-cbf3-4912-aa50-adf8b087bd23" />
 
 **Live Demo:** [Amazon Clone](https://imafrah.github.io/Practice-Projects/Amazon_clone/)
 

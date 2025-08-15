@@ -1,0 +1,293 @@
+@media (max-width: 900px) {
+    h1,img{
+        top:1px;
+    }
+  #messages {
+    width: 96vw;
+    max-width: 98vw;
+    min-height: 40vh;
+    max-height: 60vh;
+    font-size: 1rem;
+    padding: 14px 6px 10px 6px;
+  }
+  #message-input {
+    width: 65vw;
+    max-width: 95vw;
+    font-size: 1rem;
+    padding: 12px;
+  }
+  #send-button, #clear-button {
+    padding: 10px 16px;
+    font-size: 1rem;
+    margin-right: 6px;
+  }
+  #chat-container {
+    width: 100vw;
+    min-width: 100vw;
+    min-height: 100vh;
+    padding-left: 8px;
+    padding-right: 8px;
+    border-radius: 0 0 16px 16px;
+    box-shadow: 0 4px 16px 0 rgba(31,38,135,0.10);
+    padding-top: 60px;
+    overflow-y: auto;
+
+  }
+  #status{
+    margin-top: 10rem;
+    background-color: #232526;
+  }
+}
+
+@media (max-width: 800px) {
+  h1 {
+    font-size: 1.1rem;
+    padding: 14px 0 10px 8px;
+    box-shadow: 0 2px 8px 0 rgba(246, 246, 248, 0.07);
+    border-bottom:none;
+  }
+  h1 img {
+    width: 12px;
+    height: 12px;
+    
+    margin-right: 4px;
+  }
+  #chat-container {
+    border-radius: 0 0 8px 8px;
+    padding-top: 30px;
+    min-width: 100vw;
+    min-height: 100vh;
+    padding-left: 2px;
+    padding-right: 2px;
+    box-shadow: 0 2px 8px 0 rgba(31,38,135,0.08);
+    /* overflow-y: auto; */
+  }
+  #messages {
+    width: 98vw;
+    max-width: 99vw;
+    min-height: 40vh;
+    max-height: 50vh;
+    
+    padding: 10px 4px 8px 4px;
+    font-size: 0.98rem;
+  }
+  #message-input {
+    width: 60vw;
+    max-width: 90vw;
+    font-size: 0.98rem;
+    padding: 10px;
+  }
+  #send-button, #clear-button {
+    padding: 8px 12px;
+    font-size: 0.98rem;
+    margin-right: 4px;
+  }
+  #status {
+    font-size: 1rem;
+    margin-top: 4px;
+    min-height: 18px;
+  }
+}
+@media (max-width: 400px) {
+  h1 {
+    font-size: 0.9rem;
+    padding: 10px 0 8px 4px;
+  }
+  h1 img {
+    width: 16px;
+    height: 16px;
+    left: 100px;
+    background-color: #fc5c7d;
+  }
+  #chat-container {
+    border-radius: 0 0 4px 4px;
+    padding-top: 12px;
+    min-width: 100vw;
+    min-height: 100vh;
+    padding-left: 2px;
+    padding-right: 2px;
+    box-shadow: 0 1px 4px 0 rgba(31,38,135,0.06);
+    /* overflow-y: auto; */
+    
+    
+  }
+  #messages {
+    width: 99vw;
+    max-width: 100vw;
+    min-height: 30vh;
+    max-height: 40vh;
+    font-size: 0.9rem;
+    padding: 6px 2px 4px 2px;
+    
+  }
+  #message-input {
+    width: 50rem;
+    max-width: 100vw;
+    font-size: 0.9rem;
+    padding: 10px;
+    
+  }
+  #send-button, #clear-button {
+    padding: 6px 8px;
+    font-size: 0.9rem;
+    margin-right: 2px;
+  }
+  #status {
+    font-size: 0.9rem;
+    margin-top: 2px;
+    min-height: 12px;
+  }
+}
+
+
+h1 img {
+    width: 32px;
+    height: 32px;
+    object-fit: cover;
+    border-radius: 12px;
+    top: 1px;
+
+    margin-bottom: 2px;
+    border: none;
+    transition: transform 0.2s;
+}
+h1 img:hover {
+    transform: scale(1.08) rotate(-4deg);
+}
+
+body {
+    background: linear-gradient(135deg, #232526 0%, #6a82fb 100%);
+    font-family: 'Segoe UI', Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+    overflow-x: hidden;
+}
+
+#chat-container {
+    width: 100vw;
+    height: 100vh;
+    min-height: 100vh;
+    min-width: 100vw;
+    margin: 0;
+    background: rgba(255,255,255,0.92);
+    border-radius: 0 0 32px 32px;
+    box-shadow: 0 8px 32px 0 rgba(31,38,135,0.13);
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 0;
+    gap: 12px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    padding-top: 50px;
+    backdrop-filter: blur(2px);
+}
+
+#messages {
+    width: 90vw;
+    max-width: 600px;
+    min-height: 60vh;
+    max-height: 70vh;
+    overflow-y: auto;
+    background: linear-gradient(120deg, #f5f7fa 60%, #e0e7ff 100%);
+    border-radius: 16px;
+    padding: 24px 18px 18px 18px;
+    margin-bottom: 10px;
+    font-size: 1.08rem;
+    color: #222;
+    box-shadow: 0 4px 24px rgba(106,130,251,0.08);
+    border: 1.5px solid #e0e7ff;
+    transition: box-shadow 0.2s;
+}
+
+#message-input {
+    padding: 14px;
+    border-radius: 8px;
+    border: 1.5px solid #bbb;
+    font-size: 1.08rem;
+    outline: none;
+    margin-bottom: 8px;
+    width: 70vw;
+    max-width: 400px;
+    box-sizing: border-box;
+    transition: border 0.2s, box-shadow 0.2s;
+    background: #f5f7fa;
+    box-shadow: 0 2px 8px rgba(106,130,251,0.06);
+}
+#message-input:focus {
+    border: 2px solid #6a82fb;
+    box-shadow: 0 0 0 2px #6a82fb33;
+}
+
+#send-button, #clear-button {
+    padding: 12px 22px;
+    border: none;
+    border-radius: 8px;
+    font-size: 1.08rem;
+    margin-right: 8px;
+    cursor: pointer;
+    transition: background 0.2s, color 0.2s, box-shadow 0.2s;
+    font-weight: 600;
+    box-shadow: 0 2px 8px rgba(106,130,251,0.10);
+}
+#send-button {
+    background: linear-gradient(90deg, #6a82fb 0%, #fc5c7d 100%);
+    color: #fff;
+    font-weight: bold;
+    border: 1.5px solid #6a82fb;
+}
+#send-button:hover {
+    background: linear-gradient(90deg, #fc5c7d 0%, #6a82fb 100%);
+    box-shadow: 0 4px 16px rgba(252,92,125,0.13);
+}
+#clear-button {
+    background: #f5f7fa;
+    color: #6a82fb;
+    border: 1.5px solid #e0e7ff;
+}
+#clear-button:hover {
+    background: #fc5c7d;
+    color: #fff;
+    border: 1.5px solid #fc5c7d;
+}
+
+h1 {
+    text-align: left;
+    color: #6a82fb;
+    margin-top: 0;
+    letter-spacing: 2px;
+    font-size: 1.5rem;
+    text-shadow: 0 2px 8px rgba(106,130,251,0.12);
+    position: relative;
+    z-index: 10;
+    background: none;
+    width: 100vw;
+    left: 0;
+    top: 0;
+    padding: 22px 0 14px 0;
+    box-shadow: 0 4px 24px 0 rgba(31,38,135,0.07);
+    border-bottom: 2px solid #e0e7ff;
+}
+
+#status {
+    text-align: center;
+    color: #fc5c7d;
+    font-size: 1.15rem;
+    margin-top: 8px;
+    min-height: 24px;
+    font-weight: 500;
+    letter-spacing: 1px;
+}
+
+.user-message strong {
+    color: #6a82fb;
+    font-weight: 700;
+}
+.bot-message strong {
+    color: #fc5c7d;
+    font-weight: 700;
+}

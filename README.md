@@ -30,6 +30,9 @@ A simple web app that allows users to convert between different currencies using
 
 **Live Demo:** [Currency Converter](https://imafrah.github.io/Practice-Projects/Courrency/)
 
+## 📷 Preview
+<img width="1365" height="681" alt="image" src="https://github.com/user-attachments/assets/b46e29b0-b270-4bf6-aeda-61d7920a7edc" />
+
 ---
 
 ### 2. To-Do List 📋

@@ -28,7 +28,7 @@ A simple web app that allows users to convert between different currencies using
 - JavaScript
 - API for exchange rates
 
-**Live Demo:** [Currency Converter](https://imafrah.github.io/Practice-Projects/Courrency/)
+**Live Demo:** [Currency Converter](https://imafrah.github.io/Projects/Courrency/)
 
 ## 📷 Preview
 <img width="1365" height="681" alt="image" src="https://github.com/user-attachments/assets/b46e29b0-b270-4bf6-aeda-61d7920a7edc" />
@@ -73,7 +73,7 @@ It replicates the layout and design of Amazon but does not include backend funct
 <img width="1365" height="628" alt="image" src="https://github.com/user-attachments/assets/fbac35cc-ec16-459a-8fa2-684df3592c84" />
 
 
-**Live Demo:** [Amazon Clone](https://imafrah.github.io/Practice-Projects/Amazon_clone/)
+**Live Demo:** [Amazon Clone](https://imafrah.github.io/Projects/Amazon_clone/)
 
 
 ## 🚀 Purpose of This Repository

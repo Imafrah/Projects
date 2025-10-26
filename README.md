@@ -50,7 +50,7 @@ A sleek and interactive to-do list app that helps users organize their daily tas
 - CSS
 - JavaScript
 
-**Live Demo:** [To-Do List](https://imafrah.github.io/Practice-Projects/To-do-List/)
+**Live Demo:** [To-Do List](https://imafrah.github.io/Projects/To-do-List/)
 
 ---
 ### 3. Amazon Clone 📦
